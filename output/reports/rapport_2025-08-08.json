@@ -1,0 +1,22 @@
+{
+  "date": "2025-08-08",
+  "statistiques": {
+    "pdf_traites": 0,
+    "txt_traites": 1,
+    "articles_generes": 1,
+    "publications_sociales": 2,
+    "visuels_crees": 2,
+    "erreurs": []
+  },
+  "resume_contenu": {
+    "articles": [
+      {
+        "titre": "Article de blog généré",
+        "mots": 918
+      }
+    ],
+    "publications": 2,
+    "visuels": 2
+  },
+  "erreurs": []
+}

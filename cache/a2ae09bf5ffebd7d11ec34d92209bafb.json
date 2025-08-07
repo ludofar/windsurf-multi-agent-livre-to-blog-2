@@ -1,0 +1,81 @@
+{
+  "data": {
+    "theme_principal": {
+      "nom": "Alimentation et sant mentale chez l'adolescent",
+      "pertinence": "leve",
+      "description": "Le thme central explore l'impact de l'alimentation sur la sant mentale des adolescents, en particulier dans la gestion des symptmes dpressifs, en combinant approches scientifiques modernes et principes de la dittique chinoise."
+    },
+    "sous_themes": [
+      {
+        "nom": "Comprhension de la dpression adolescente",
+        "pertinence": "leve",
+        "description": "Prsentation accessible et empathique de la dpression chez les adolescents, incluant ses causes biologiques, psychologiques et environnementales."
+      },
+      {
+        "nom": "Nutrition comportementale et dittique chinoise",
+        "pertinence": "leve",
+        "description": "Alliance entre les connaissances nutritionnelles modernes et les principes de la Mdecine Traditionnelle Chinoise pour influencer positivement lhumeur via lalimentation."
+      },
+      {
+        "nom": "Empowerment de l'adolescent par lalimentation",
+        "pertinence": "moyenne",
+        "description": "Utilisation de lalimentation comme outil dautonomisation et de bien-tre personnel, avec un ton proche et encourageant."
+      }
+    ],
+    "repetitions": [
+      {
+        "terme": "assiette",
+        "occurrences": 3,
+        "alternatives": [
+          "bol",
+          "repas",
+          "choix alimentaires",
+          "rgime"
+        ],
+        "recommandation": "Varier les expressions pour viter la monotonie tout en conservant lide centrale de limportance de lalimentation."
+      },
+      {
+        "terme": "bouquin",
+        "occurrences": 2,
+        "alternatives": [
+          "guide",
+          "ouvrage",
+          "ressource"
+        ],
+        "recommandation": "Utiliser des synonymes pour enrichir le style et viter une impression de langage rptitif."
+      }
+    ],
+    "liens_thematiques": [
+      {
+        "type": "complementaire",
+        "titre": "Les motions et les organes dans la MTC",
+        "lien": "lien_vers_article_organes_emotions",
+        "valeur_ajoutee": "Approfondit la relation entre les organes (comme le Cur, le Foie) et lhumeur, en lien avec la dpression."
+      },
+      {
+        "type": "approfondissement",
+        "titre": "Plantes adaptognes et humeur : une approche MTC",
+        "lien": "lien_vers_article_adaptogenes",
+        "valeur_ajoutee": "Explore lutilisation de plantes dans la MTC pour soutenir lquilibre motionnel, en complment de la dittique."
+      }
+    ],
+    "recommandations": [
+      "Clarifier davantage les principes spcifiques de la dittique chinoise (ex. : proprits nergtiques des aliments, lien entre les saveurs et les organes) pour renforcer la spcificit MTC.",
+      "Introduire des exemples concrets daliments et recettes associs  des bienfaits prcis, pour renforcer laspect pratique et ducatif."
+    ],
+    "plan_progression": {
+      "etapes_suivantes": [
+        "Dvelopper un chapitre sur les routines alimentaires anti-stress pour ado",
+        "Proposer un plan alimentaire hebdomadaire bas sur les principes MTC"
+      ],
+      "themes_complementaires": [
+        "Sommeil et rythme circadien chez ladolescent",
+        "Lien entre digestion et motion selon la MTC"
+      ],
+      "calendrier_suggere": "Publier un chapitre par mois sur 6 mois, avec des infographies et quiz interactifs en appui."
+    }
+  },
+  "created_at": "2025-08-08T00:04:49.251302",
+  "expires_at": 1754690689.2513025,
+  "ttl": 86400
+}

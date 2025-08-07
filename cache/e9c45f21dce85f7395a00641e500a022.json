@@ -1,0 +1,45 @@
+{
+  "data": {
+    "publications": [
+      {
+        "type": "concept",
+        "horaire": "09:00",
+        "texte": "Saviez-vous que la Médecine Traditionnelle Chinoise repose sur l’équilibre des énergies Yin et Yang ? 🌗\n\nCes deux forces opposées mais complémentaires sont présentes dans tout ce qui nous entoure, y compris notre corps. Lorsqu’elles sont en harmonie, la santé est optimale. Déséquilibrées, elles peuvent être à l’origine de divers troubles.\n\n💡 Pourquoi c’est important ? Parce que comprendre cet équilibre permet d’agir sur sa santé au quotidien, par l’alimentation, les émotions ou encore les pratiques comme le Qi Gong.\n\n👉 Dites-moi en commentaire si vous avez déjà entendu parler du Yin et du Yang !",
+        "hashtags": [
+          "#MTC",
+          "#YinYang",
+          "#SanteNaturelle",
+          "#EquilibreEnergétique",
+          "#MedecineChinoise"
+        ],
+        "appel_action": "Dites-moi en commentaire si vous avez déjà entendu parler du Yin et du Yang !",
+        "suggestions_visuelles": [
+          "Illustration de l’équilibre Yin Yang avec des symboles naturels (lune/soleil, eau/feu)",
+          "Schéma simplifié du Yin et Yang dans le corps humain"
+        ],
+        "objectif": "Éduquer sur un concept fondamental de la MTC de manière accessible"
+      },
+      {
+        "type": "astuce",
+        "horaire": "17:00",
+        "texte": "🍵 Quel est votre rituel santé du soir pour mieux dormir ?\n\nEn MTC, le moment du coucher est crucial pour permettre au corps de se régénérer. Une tisane chaude, une respiration profonde ou un bain tiède peuvent aider à recentrer l’énergie.\n\n💬 Partagez votre petite routine en commentaire ! Je vous propose d’échanger ensemble sur les gestes simples qui améliorent le quotidien.\n\n#MTC #SanteAuQuotidien #BienEtre #RituelSoin #AstuceSante",
+        "hashtags": [
+          "#MTC",
+          "#SanteAuQuotidien",
+          "#BienEtre",
+          "#RituelSoin",
+          "#AstuceSante"
+        ],
+        "appel_action": "Partagez votre petite routine en commentaire !",
+        "suggestions_visuelles": [
+          "Photo d’une tisane fumante avec des herbes traditionnelles (tilleul, menthe, etc.)",
+          "Illustration d’une personne pratiquant une respiration consciente avant le coucher"
+        ],
+        "objectif": "Encourager l’engagement en proposant une question interactive sur les pratiques quotidiennes liées à la MTC"
+      }
+    ]
+  },
+  "created_at": "2025-08-08T00:06:29.582594",
+  "expires_at": 1754690789.5825944,
+  "ttl": 86400
+}

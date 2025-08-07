@@ -1,0 +1,26 @@
+2025-08-08 00:13:50,962 - __main__ - INFO - Workflow initialisé.
+2025-08-08 00:13:50,962 - __main__ - INFO - === DÉMARRAGE DU WORKFLOW QUOTIDIEN ===
+2025-08-08 00:13:50,962 - __main__ - INFO - Initialisation des agents...
+2025-08-08 00:13:51,215 - utils.cache_manager - INFO - Cache chargé avec 4 entrées valides
+2025-08-08 00:13:51,373 - agents.base_agent - INFO - Initialisation de l'agent PDF Analyzer (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,373 - agents.base_agent - INFO - Initialisation de l'agent Theme Manager (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,373 - agents.base_agent - INFO - Initialisation de l'agent Content Strategy Agent (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,378 - agents.base_agent - INFO - Initialisation de l'agent Blog Writer Agent (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,378 - agents.base_agent - INFO - Initialisation de l'agent Facebook Content Creator (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,379 - agents.base_agent - INFO - Initialisation de l'agent MTC Visual Prompt Generator (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,379 - agents.base_agent - INFO - Initialisation de l'agent MTC Content Validator (modèle: qwen/qwen3-coder, cache: activé)
+2025-08-08 00:13:51,379 - __main__ - INFO - Tous les agents ont été initialisés.
+2025-08-08 00:13:51,379 - __main__ - INFO - Recherche de nouveaux fichiers dans : F:\AA IMPORTANT\IAS\windsurf multi agent livre to blog-2\input
+2025-08-08 00:13:51,381 - __main__ - INFO - 1 nouveau(x) fichier(s) détecté(s): nourrir son moral (1-93).txt
+2025-08-08 00:13:51,381 - __main__ - INFO - Traitement de 1 fichiers en parallèle (max 3 tâches simultanées)
+2025-08-08 00:13:51,381 - __main__ - INFO - --- Début du traitement du fichier : nourrir son moral (1-93).txt ---
+2025-08-08 00:13:51,435 - agents.theme_manager - INFO - Base de connaissances mise à jour avec le contenu ID: content_1
+2025-08-08 00:13:51,436 - agents.blog_writer - INFO - Article généré avec succès. Titre: Article de blog généré, Mots: 918
+2025-08-08 00:13:51,436 - agents.social_creator - INFO - Génération des publications Facebook...
+2025-08-08 00:13:51,436 - agents.social_creator - INFO - Publications générées avec succès: 2 publications
+2025-08-08 00:13:51,437 - __main__ - INFO - Sauvegarde des résultats dans : F:\AA IMPORTANT\IAS\windsurf multi agent livre to blog-2\output\content\nourrir son moral (1-93)
+2025-08-08 00:13:51,440 - __main__ - INFO - Résultats pour 'nourrir son moral (1-93)' sauvegardés avec succès.
+2025-08-08 00:13:51,440 - __main__ - INFO - --- Fin du traitement du fichier : nourrir son moral (1-93).txt ---
+2025-08-08 00:13:51,441 - __main__ - INFO - Génération du rapport quotidien...
+2025-08-08 00:13:51,448 - __main__ - INFO - Rapport quotidien généré : rapport_2025-08-08.json et rapport_2025-08-08.md
+2025-08-08 00:13:51,448 - __main__ - INFO - === WORKFLOW TERMINÉ EN 0.0 MINUTES ===

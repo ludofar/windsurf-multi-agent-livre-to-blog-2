@@ -1,0 +1,322 @@
+{
+  "data": {
+    "analyse_strategique": {
+      "themes_prioritaires": [
+        {
+          "theme": "Acupuncture et ses bienfaits",
+          "potentiel_trafic": "élevé",
+          "concurrence": "moyenne",
+          "angles": [
+            "Les mythes et réalités de l’acupuncture",
+            "Acupuncture pour la gestion du stress et de l’anxiété"
+          ],
+          "personas_cibles": [
+            "grand public",
+            "étudiants",
+            "professionnels de santé"
+          ]
+        },
+        {
+          "theme": "Phytothérapie chinoise",
+          "potentiel_trafic": "élevé",
+          "concurrence": "moyenne",
+          "angles": [
+            "Plantes médicinales chinoises pour renforcer le système immunitaire",
+            "Phytothérapie vs. médecine conventionnelle : quand s’appuyer sur quoi ?"
+          ],
+          "personas_cibles": [
+            "praticiens",
+            "patients",
+            "étudiants"
+          ]
+        },
+        {
+          "theme": "Principes de base du diagnostic en MTC",
+          "potentiel_trafic": "moyen",
+          "concurrence": "faible",
+          "angles": [
+            "Comment lire les signes du corps selon la MTC",
+            "Le pouls et la langue : outils de diagnostic clés en main"
+          ],
+          "personas_cibles": [
+            "étudiants",
+            "praticiens débutants"
+          ]
+        },
+        {
+          "theme": "Qi Gong et méditation",
+          "potentiel_trafic": "moyen",
+          "concurrence": "faible",
+          "angles": [
+            "Qi Gong pour débutants : 5 exercices simples à intégrer",
+            "Qi Gong et bien-être mental : comment ça marche ?"
+          ],
+          "personas_cibles": [
+            "grand public",
+            "patients",
+            "étudiants"
+          ]
+        },
+        {
+          "theme": "Nutrition selon la MTC",
+          "potentiel_trafic": "élevé",
+          "concurrence": "moyenne",
+          "angles": [
+            "Manger selon sa constitution énergétique",
+            "Les aliments chauds, froids et neutres : guide pratique"
+          ],
+          "personas_cibles": [
+            "grand public",
+            "patients",
+            "étudiants"
+          ]
+        }
+      ]
+    },
+    "plan_contenu": {
+      "articles_blog": [
+        {
+          "titre": "L’acupuncture : mythes vs. réalités pour une meilleure compréhension",
+          "public_cible": "grand public",
+          "mots_cles": [
+            "acupuncture",
+            "mythes acupuncture",
+            "bienfaits acupuncture",
+            "MTC"
+          ],
+          "ton": "éducatif",
+          "structure": [
+            "Introduction",
+            "Mythes courants",
+            "Fondements scientifiques",
+            "Conclusion"
+          ],
+          "elements_engagement": [
+            "Avez-vous déjà essayé l’acupuncture ?",
+            "Partagez vos expériences"
+          ],
+          "longueur_estimee": 1600
+        },
+        {
+          "titre": "Phytothérapie chinoise : renforcer son immunité naturellement",
+          "public_cible": "patients",
+          "mots_cles": [
+            "phytothérapie chinoise",
+            "plantes médicinales",
+            "immunité",
+            "santé naturelle"
+          ],
+          "ton": "informatif",
+          "structure": [
+            "Introduction",
+            "Les plantes clés",
+            "Mode d’emploi",
+            "Précautions"
+          ],
+          "elements_engagement": [
+            "Quelle plante utilisez-vous pour booster votre immunité ?",
+            "Téléchargez notre guide gratuit"
+          ],
+          "longueur_estimee": 1400
+        },
+        {
+          "titre": "Comment le diagnostic en MTC peut transformer votre approche de la santé",
+          "public_cible": "étudiants",
+          "mots_cles": [
+            "diagnostic MTC",
+            "lecture du pouls",
+            "examen de la langue",
+            "formation MTC"
+          ],
+          "ton": "éducatif",
+          "structure": [
+            "Introduction",
+            "Les bases du diagnostic",
+            "Analyse du pouls",
+            "Analyse de la langue",
+            "Conclusion"
+          ],
+          "elements_engagement": [
+            "Testez vos connaissances avec notre quiz",
+            "Inscrivez-vous à notre prochain webinaire"
+          ],
+          "longueur_estimee": 1800
+        },
+        {
+          "titre": "Qi Gong pour débutants : 5 exercices simples pour améliorer votre énergie",
+          "public_cible": "grand public",
+          "mots_cles": [
+            "Qi Gong",
+            "exercices Qi Gong",
+            "bien-être",
+            "énergie vitale"
+          ],
+          "ton": "conversationnel",
+          "structure": [
+            "Introduction",
+            "Qu’est-ce que le Qi Gong ?",
+            "5 exercices simples",
+            "Conseils pour débuter"
+          ],
+          "elements_engagement": [
+            "Essayez l’exercice 3 et dites-nous ce que vous en pensez !",
+            "Suivez notre série vidéo sur YouTube"
+          ],
+          "longueur_estimee": 1300
+        },
+        {
+          "titre": "Manger selon sa constitution énergétique : le guide de la nutrition en MTC",
+          "public_cible": "patients",
+          "mots_cles": [
+            "nutrition MTC",
+            "aliments chauds froids",
+            "constitution énergétique",
+            "régime alimentaire"
+          ],
+          "ton": "informatif",
+          "structure": [
+            "Introduction",
+            "Les 3 grandes catégories d’aliments",
+            "Identifier sa constitution",
+            "Exemples de repas"
+          ],
+          "elements_engagement": [
+            "Connaissez-vous votre constitution énergétique ?",
+            "Téléchargez notre tableau des aliments"
+          ],
+          "longueur_estimee": 1700
+        }
+      ],
+      "reseaux_sociaux": {
+        "strategie_globale": "Varier les formats pour capter l’attention : vidéos courtes, carrousels, citations inspirantes, astuces rapides et infographies.",
+        "publications_quotidiennes": [
+          {
+            "plateforme": "instagram",
+            "type_contenu": "astuce",
+            "horaire_suggere": "08:00",
+            "exemple_texte": "💡 Saviez-vous que la couleur de votre langue peut révéler des déséquilibres énergétiques ? Découvrez comment l’interpréter dans notre dernier article !",
+            "hashtags": [
+              "#MTC",
+              "#SanteNaturelle",
+              "#Acupuncture"
+            ]
+          },
+          {
+            "plateforme": "facebook",
+            "type_contenu": "citation",
+            "horaire_suggere": "13:00",
+            "exemple_texte": "« La santé parfaite consiste à garder l’harmonie entre le corps, l’esprit et l’âme. » – Médecine Traditionnelle Chinoise 🌿",
+            "hashtags": [
+              "#MTC",
+              "#BienEtre",
+              "#Harmonie"
+            ]
+          },
+          {
+            "plateforme": "linkedin",
+            "type_contenu": "infographie",
+            "horaire_suggere": "10:00",
+            "exemple_texte": "Le diagnostic en MTC repose sur 4 piliers. Découvrez lesquels et comment ils interagissent entre eux. 📊",
+            "hashtags": [
+              "#MTC",
+              "#Praticiens",
+              "#Sante"
+            ]
+          }
+        ]
+      }
+    },
+    "calendrier_editorial": [
+      {
+        "date": "2025-04-01",
+        "contenus": [
+          {
+            "type": "article_blog",
+            "titre": "L’acupuncture : mythes vs. réalités pour une meilleure compréhension",
+            "statut": "rédaction",
+            "responsable": "rédacteur"
+          },
+          {
+            "type": "post_facebook",
+            "titre": "Citation inspirante du jour",
+            "statut": "rédaction",
+            "responsable": "rédacteur"
+          }
+        ]
+      },
+      {
+        "date": "2025-04-02",
+        "contenus": [
+          {
+            "type": "infographic",
+            "titre": "Les bienfaits de la phytothérapie chinoise",
+            "statut": "design",
+            "responsable": "designer"
+          },
+          {
+            "type": "post_instagram",
+            "titre": "Astuce quotidienne sur la nutrition MTC",
+            "statut": "rédaction",
+            "responsable": "rédacteur"
+          }
+        ]
+      },
+      {
+        "date": "2025-04-03",
+        "contenus": [
+          {
+            "type": "article_blog",
+            "titre": "Comment le diagnostic en MTC peut transformer votre approche de la santé",
+            "statut": "rédaction",
+            "responsable": "rédacteur"
+          }
+        ]
+      },
+      {
+        "date": "2025-04-04",
+        "contenus": [
+          {
+            "type": "video_youtube",
+            "titre": "5 exercices de Qi Gong pour débutants",
+            "statut": "production",
+            "responsable": "vidéaste"
+          }
+        ]
+      },
+      {
+        "date": "2025-04-05",
+        "contenus": [
+          {
+            "type": "post_linkedin",
+            "titre": "Infographie sur les aliments chauds, froids et neutres",
+            "statut": "design",
+            "responsable": "designer"
+          }
+        ]
+      }
+    ],
+    "metriques_succes": {
+      "kpis": [
+        "trafic",
+        "temps_session",
+        "partages",
+        "taux_conversion",
+        "taux_engagement"
+      ],
+      "objectifs": {
+        "taux_engagement": ">3%",
+        "taux_conversion": ">2%"
+      }
+    },
+    "suggested_topics": [
+      "Acupuncture et ses bienfaits",
+      "Phytothérapie chinoise",
+      "Principes de base du diagnostic en MTC",
+      "Qi Gong et méditation",
+      "Nutrition selon la MTC"
+    ]
+  },
+  "created_at": "2025-08-08T00:05:42.178892",
+  "expires_at": 1754690742.1788929,
+  "ttl": 86400
+}
